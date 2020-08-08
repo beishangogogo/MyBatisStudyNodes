@@ -5,7 +5,7 @@
 <mapper namespace="com.beishan.dao.IUserDao">
 
     <!-- 查询所有 -->
-    <select id="selectAll" resultType="com.beishan.domain.User">
+    <select id="selectAll" resultType="user">
         select * from user
     </select>
 

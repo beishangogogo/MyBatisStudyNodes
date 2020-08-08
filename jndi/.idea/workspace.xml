@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73010b22-85a8-423e-b16b-9778f8f6e154" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../01_MyBatisCRUD/src/main/resources/jdbcConfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_MyBatisDAO/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_MyBatisDAO/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_MyBatisDAO/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_MyBatisDAO/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_MyBatisDAO/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_MyBatisDAO/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_MyBatisDAO/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_MyBatisDAO/05_MyBatisDAO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_MyBatisDAO/src/main/java/com/beishan/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataSourceAndTx/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataSourceAndTx/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataSourceAndTx/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataSourceAndTx/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataSourceAndTx/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataSourceAndTx/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataSourceAndTx/DataSourceAndTx.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamicSql/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamicSql/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamicSql/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamicSql/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamicSql/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamicSql/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamicSql/dynamicSql.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/beishan/dao/IUserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/beishan/domain/QueryVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/beishan/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/beishan/dao/IUserDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/jdbcConfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/META-INF/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/beishan/test/MyBatisTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many2many/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many2many/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many2many/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many2many/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many2many/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many2many/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many2many/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many2many/many2many.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many2many/src/main/java/com/beishan/dao/IRoleDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many2many/src/main/java/com/beishan/domain/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many2many/src/main/resources/com/beishan/dao/IRoleDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many2many/src/test/java/com/beishan/test/RoleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../one2many/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../one2many/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../one2many/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../one2many/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../one2many/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../one2many/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../one2many/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../one2many/one2many.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../one2many/src/main/java/com/beishan/dao/IAccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../one2many/src/main/java/com/beishan/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../one2many/src/main/java/com/beishan/domain/AccountUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../one2many/src/main/resources/com/beishan/dao/IAccountDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../one2many/src/test/java/com/beishan/test/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../one2many/src/test/java/com/beishan/test/UserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_MyBatisCRUD/src/main/resources/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_MyBatisCRUD/src/main/resources/SqlMapConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_MyBatisCRUD/src/main/resources/com/beishan/dao/IUserDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_MyBatisCRUD/src/main/resources/com/beishan/dao/IUserDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_MyBatisCRUD/target/classes/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_MyBatisCRUD/target/classes/SqlMapConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_MyBatisCRUD/target/classes/com/beishan/dao/IUserDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_MyBatisCRUD/target/classes/com/beishan/dao/IUserDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyBatis_01_HelloWorld/.idea/workspace.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fovdC53VUMXCY0MbDDPDIxn0ld" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73010b22-85a8-423e-b16b-9778f8f6e154" name="Default Changelist" comment="" />
+      <created>1596897345091</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596897345091</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1226" height="317" key="GridCell.Tab.0.bottom" timestamp="1596898200208">
+      <screen x="0" y="25" width="1280" height="775" />
+    </state>
+    <state width="1226" height="317" key="GridCell.Tab.0.bottom/0.25.1280.775@0.25.1280.775" timestamp="1596898200208" />
+    <state width="1226" height="317" key="GridCell.Tab.0.center" timestamp="1596898200207">
+      <screen x="0" y="25" width="1280" height="775" />
+    </state>
+    <state width="1226" height="317" key="GridCell.Tab.0.center/0.25.1280.775@0.25.1280.775" timestamp="1596898200207" />
+    <state width="1226" height="317" key="GridCell.Tab.0.left" timestamp="1596898200207">
+      <screen x="0" y="25" width="1280" height="775" />
+    </state>
+    <state width="1226" height="317" key="GridCell.Tab.0.left/0.25.1280.775@0.25.1280.775" timestamp="1596898200207" />
+    <state width="1226" height="317" key="GridCell.Tab.0.right" timestamp="1596898200208">
+      <screen x="0" y="25" width="1280" height="775" />
+    </state>
+    <state width="1226" height="317" key="GridCell.Tab.0.right/0.25.1280.775@0.25.1280.775" timestamp="1596898200208" />
+  </component>
+</project>
